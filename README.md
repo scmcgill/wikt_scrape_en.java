@@ -1,2 +1,1 @@
-# wikt_scrape_en.java
-Java web scraper for English Wiktionary
+#### Java/Jsoup webscraper for select translations of English words.  
